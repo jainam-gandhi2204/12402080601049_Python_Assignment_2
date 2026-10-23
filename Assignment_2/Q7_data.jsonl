@@ -1,0 +1,7 @@
+{"category": "Food", "amount": 250}
+{"category": "Travel", "amount": 500}
+{"category": "Food", "amount": 150.50}
+{"category": "Travel", "amount": 200}
+{"category": "Food", "amount": -50}
+not valid json
+{"category": "Books", "amount": 300}

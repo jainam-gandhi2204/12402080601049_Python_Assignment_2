@@ -1,0 +1,7 @@
+2026-10-10 10:00:00 INFO Server started
+2026-10-10 10:00:05 ERROR Database timeout
+2026-10-10 10:00:10 ERROR Connection refused
+2026-10-10 10:00:15 INFO Retry started
+2026-10-10 10:00:20 CRITICAL Database unavailable
+2026-10-10 10:01:00 INFO Service recovered
+invalid log entry

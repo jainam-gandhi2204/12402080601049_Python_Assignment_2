@@ -1,0 +1,5 @@
+
+Contact a.b+1@adit.edu, root@gadit.com, test-user@x.org and a.b+1@adit.edu
+x.org 1 test-user@x.org
+bad@@example.com invalid@.org missing@domain
+student@college.edu admin@college.edu
